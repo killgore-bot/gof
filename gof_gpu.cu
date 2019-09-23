@@ -1,8 +1,3 @@
-// Rohit Khiani
-// id - khianirm
-// CS-632
-// hw-5
-
 #include <stdio.h>
 #include <stdlib.h>
 
