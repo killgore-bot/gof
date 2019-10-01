@@ -7,6 +7,7 @@ Each cell with one or no neighbor dies, as if by loneliness.
 Each cell with four or more neighbors dies,by overpopulation.
 
 Each cell with two or three neighbors survives.
+
 Program Design:
 
 Begin  by  creating  an  array  with  random  1's  and  0's (1's signifying live state and 0's signifying the dead state)  and  a  copy  of  an  original  array .  As  per  the  rules  two  main  functions  were  to  count  the  neighboring  cells  and  second  function  to  apply  the  rules  to  determine  the  live  state  or  dead  state  of  all  the  cells  in  the  next  generation.
