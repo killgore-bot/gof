@@ -18,4 +18,4 @@ Speedup - 25.91
 
 (*no of itterations is 5000 for all test cases and grid size is 5000X5000)
 
-Allocation of cells is done using rand()
+(Tested on the DMC cluster| Alabama Super Computer)
